@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mental Health Application**
 
-- 🌱 I’m currently learning **I’m currently learning about web3**
+- 🌱 I’m currently learning **about web3**
 
 - 👯 I’m looking to collaborate on **open source projects, and any ideas on cancer support application to help cancer patients and, their families.**
 
@@ -19,8 +19,15 @@
 
 - 📫 How to reach me **maiyoj12@gmail.com**
 
+- ⚡ Fun fact **I am dancer but to shy, and also a gaming enthusiast**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://medium.com/@valentine maiyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@valentine maiyo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
