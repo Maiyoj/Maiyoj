@@ -17,9 +17,6 @@
 
 - 💬 Ask me about **Fullstack Development, and web3**
 
-- 📫 How to reach me **maiyoj12@gmail.com**
-
-- ⚡ Fun fact **I am a dancer but to shy to show off, and I am also a gaming enthusiast**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
