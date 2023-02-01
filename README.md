@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about web3**
 
-- 👯 I’m looking to collaborate on **Open source projects, and any ideas on cancer support application to help cancer patients and, their families.**
+- 👯 I’m looking to collaborate on **Open source projects, and web3 projects.**
 
 - 🤝 I’m looking for help with **PM-Tracker**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Fullstack Development, and web3**
 
-- 📫 How to reach me **maiyoj12@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I am a dancer but to shy to show off, and I am also a gaming enthusiast**
 
