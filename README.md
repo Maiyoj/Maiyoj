@@ -7,17 +7,16 @@
 
 - 🌱 I’m currently learning **about web3**
 
-- 👯 I’m looking to collaborate on **Open source projects, and web3 projects.**
+- 👯 I’m looking to collaborate on **web3 projects.**
 
-- 🤝 I’m looking for help with **PM-Tracker**
+- 🤝 I’m looking for help with **Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maiyoj](https://github.com/maiyoj)
 
 - 💬 Ask me about **Fullstack Development, and web3**
 
 - 📫 How to reach me ****
 
-- ⚡ Fun fact **I am a dancer but to shy to show off, and I am also a gaming enthusiast**
+- ⚡ Fun fact **I am a dancer, and gaming enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
