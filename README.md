@@ -3,20 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiyoj&label=Profile%20views&color=0e75b6&style=flat" alt="maiyoj" /> </p>
 
-- 🔭 I’m currently working on **Mental Health Application**
+- 🔭 I’m currently working on **React Eccomerce Template**
 
-- 🌱 I’m currently learning **about web3**
+- 🌱 I’m currently learning **React & Rails **
 
-- 👯 I’m looking to collaborate on **web3 projects.**
-
-- 🤝 I’m looking for help with **Blockchain Development**
-
-
-- 💬 Ask me about **Fullstack Development, and web3**
-
-- 📫 How to reach me ****
-
-- ⚡ Fun fact **I am a dancer, and gaming enthusiast**
+- 👯 I’m looking to collaborate on **React & Rails Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
