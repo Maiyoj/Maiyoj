@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Eccomerce Template**
 
-- 🌱 I’m currently learning **React & Rails **
+- 🌱 I’m currently learning **React & Rails**
 
 - 👯 I’m looking to collaborate on **React & Rails Projects**
 
