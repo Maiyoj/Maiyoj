@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiyoj&label=Profile%20views&color=0e75b6&style=flat" alt="maiyoj" /> </p>
 
-- 🔭 I’m currently working on **Smart Contract**
+- 🔭 I’m currently working on **Developing Smart Contracts**
 
-- 🌱 I’m currently learning **React & Java**
+- 🌱 I’m currently learning **React & Solidity**
 
 
 <h3 align="left">Connect with me:</h3>
