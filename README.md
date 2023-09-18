@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiyoj&label=Profile%20views&color=0e75b6&style=flat" alt="maiyoj" /> </p>
 
-- 🔭 I’m currently working on **Developing Smart Contracts**
-
-- 🌱 I’m currently learning **React & Solidity**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@valentine maiyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@valentine maiyo" height="30" width="40" /></a>
