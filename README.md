@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, I'm Valentine Maiyo</h1>
-<h3 align="center">A passionate fullstack developer from Kenya</h3>
+<p align="center">A passionate fullstack developer from Kenya</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiyoj&label=Profile%20views&color=0e75b6&style=flat" alt="maiyoj" /> </p>
 <p align="left">
