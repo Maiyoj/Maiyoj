@@ -1,7 +1,3 @@
-Certainly! Here's an engaging and personalized GitHub README for you:
-
----
-
 <h1 align="center">Hola! 👋, I'm Valentine Maiyo</h1>
 
 <p align="center">A passionate full-stack developer from Kenya with a love for creating exceptional web applications and integrating complex systems.</p>
@@ -16,15 +12,6 @@ Certainly! Here's an engaging and personalized GitHub README for you:
   <li><strong>Database Management:</strong> Designing and implementing complex database schemas, including invoice systems and receipt management.</li>
 </ul>
 
-<h2 align="center">🌍 My Journey</h2>
-
-<p align="center">With a Bachelor’s in Computer Science and a Software Engineering certification from Moringa School, I’ve worked with top-tier companies like Ingenuity Business Solutions, HilltechIT, and Baran Telecom Networks. My experience spans:</p>
-
-<ul>
-  <li><strong>Procurement and Vendor Portals:</strong> Developed a comprehensive procurement portal and vendor portal integrated with Sage accounts, used by over 10,000 users.</li>
-  <li><strong>Insurance Systems:</strong> Migrated desktop insurance applications to the web and developed leave management systems integrated with Norming HR.</li>
-  <li><strong>Database Innovations:</strong> Migrated all clients to ETIMS and designed databases for handling invoices, receipts, and purchase orders with advanced features.</li>
-</ul>
 
 <h2 align="center">🔧 Tech Stack & Skills</h2>
 
@@ -53,12 +40,9 @@ Certainly! Here's an engaging and personalized GitHub README for you:
 
 <ul>
   <li><strong>Email:</strong> [valentinemaiyo.dev@gmail.com]</li>
-  <li><strong>LinkedIn:</strong> [Your LinkedIn Profile]</li>
-  <li><strong>GitHub:</strong> [Your GitHub Profile]</li>
+  <li><strong>LinkedIn:</strong> [https://www.linkedin.com/in/valentine-maiyo/]</li>
 </ul>
 
 <p align="center">Let's build something amazing together!</p>
 
----
 
-Feel free to adjust the links and contact details as needed. This README reflects your expertise, projects, and ambitions while making it engaging and personable!
