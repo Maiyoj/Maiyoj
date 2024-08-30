@@ -25,7 +25,7 @@
 <h2 align="center">🌟 Current Projects</h2>
 
 <ul>
-  <li><strong>Laravel on AWS:</strong> Setting up a Laravel application with SQL Server running in Docker on AWS, leveraging PHP 8.2.</li>
+  <li><strong>Laravel on AWS:</strong> Setting up a Laravel application with SQL Server running in Docker on AWS, leveraging PHP </li>
   <li><strong>Invoice Management:</strong> Implementing a system to handle invoice uploads, calculate total amounts, and manage documents efficiently.</li>
   <li><strong>Receipts API:</strong> Enhancing an API to handle receipt validation, integration with CashBook and Client Statements, and period locking checks.</li>
 </ul>
