@@ -40,7 +40,7 @@
 
 <ul>
   <li><strong>Email:</strong> [valentinemaiyo.dev@gmail.com]</li>
-  <li><strong>LinkedIn:</strong> [https://www.linkedin.com/in/valentine-maiyo/]</li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/valentine-maiyo/">https://www.linkedin.com/in/valentine-maiyo/</a></li>
 </ul>
 
 <p align="center">Let's build something amazing together!</p>
