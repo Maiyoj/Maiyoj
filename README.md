@@ -39,7 +39,7 @@
 <p align="center">Feel free to connect with me through:</p>
 
 <ul>
-  <li><strong>Email:</strong> [valentinemaiyo.dev@gmail.com]</li>
+  <li><strong>Email:</strong> valentinemaiyo.dev@gmail.com</li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/valentine-maiyo/">https://www.linkedin.com/in/valentine-maiyo/</a></li>
 </ul>
 
