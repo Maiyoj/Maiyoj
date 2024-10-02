@@ -7,9 +7,9 @@
 <p align="center">I specialize in web development, bringing together both front-end and back-end expertise to build robust and user-friendly applications. My experience includes:</p>
 
 <ul>
-  <li><strong>Integration Engineering:</strong> Seamlessly integrating systems like KRA with Sage ERP and working with APIs for policy and risk creation.</li>
+  <li><strong>Integration Engineering:</strong> Seamlessly integrating systems</li>
   <li><strong>Full-Stack Development:</strong> Expertise in JavaScript (ES6+), PHP, and Delphi, with front-end and back-end skills using HTML5, CSS3, Node.js, and Laravel.</li>
-  <li><strong>Database Management:</strong> Designing and implementing complex database schemas, including invoice systems and receipt management.</li>
+  <li><strong>Database Management:</strong> Designing and implementing complex database schemas</li>
 </ul>
 
 
@@ -26,13 +26,12 @@
 
 <ul>
   <li><strong>Laravel on AWS:</strong> Setting up a Laravel application with SQL Server running in Docker on AWS, leveraging PHP </li>
-  <li><strong>Invoice Management:</strong> Implementing a system to handle invoice uploads, calculate total amounts, and manage documents efficiently.</li>
   <li><strong>Receipts API:</strong> Enhancing an API to handle receipt validation, integration with CashBook and Client Statements, and period locking checks.</li>
 </ul>
 
 <h2 align="center">📚 Learning & Goals</h2>
 
-<p align="center">I’m currently focusing on expanding my skills with AWS, exploring Docker without Composer, and ensuring high-quality code delivery. I'm also aiming for a fully remote role with opportunities to innovate in CS, crypto, gaming, or fintech.</p>
+<p align="center">I’m currently focusing on expanding my skills with AWS, exploring Docker without Composer, and ensuring high-quality code delivery. I'm also aiming for a fully remote role with opportunities to innovate in CS, crypto,or fintech.</p>
 
 <h2 align="center">📫 Get in Touch</h2>
 
